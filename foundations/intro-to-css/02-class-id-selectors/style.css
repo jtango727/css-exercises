@@ -1,5 +1,5 @@
 .para {
-  background-color: lightred;
+  background-color: rgb(255, 167, 167);
   font-family: Verdana, DejaVu, Sans, sans-serif;
 }
 
@@ -15,5 +15,6 @@
 #div2 {
   background-color: lightgreen;
   font-size: 24px;
+  font-weight: bold;
 }
   
